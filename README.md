@@ -1,10 +1,12 @@
 Smart Air Tx (Smart Air Transmission System)
 
 📌 Abstract
+
 The **Smart Air Tx (Transmission System)** is a smart environmental monitoring and control system designed to measure air quality parameters
 and transmit the data for analysis or action. The system uses sensors to detect environmental conditions such as gas levels, temperature, or air quality, and then transmits this data to a receiver or monitoring system. It aims to provide a foundation for real-time air quality monitoring and smart automation.
 
 🎯 Problem Statement
+
 Air pollution and poor air quality have become major concerns in urban and industrial areas. Continuous monitoring is essential to ensure safety and 
 maintain healthy environments. Traditional systems can be costly and complex.This project provides a **cost-effective and simplified solution** for monitoring air 
 conditions and transmitting data efficiently, making it suitable for smart homes, industries, and environmental monitoring systems.
