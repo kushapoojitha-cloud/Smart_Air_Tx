@@ -39,10 +39,10 @@ conditions and transmitting data efficiently, making it suitable for smart homes
 
 🛠️ Technologies Used
 
-* **Programming Language:** Embedded C / C
-* **Hardware:** Microcontroller (Arduino / similar)
-* **Sensors:** Gas/Air Quality Sensors
-* **Communication:** UART / RF / Bluetooth / Wi-Fi
+* Programming Language: Embedded C / C
+* Hardware: Microcontroller
+* Sensors
+* Communication
 
 📊 Applications
 
